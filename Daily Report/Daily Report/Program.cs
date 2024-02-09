@@ -2,7 +2,9 @@
 
 
 
-class DailyReport
+using System;
+
+class Program
 {
     static void Main()
     {
@@ -11,9 +13,9 @@ class DailyReport
         Console.WriteLine("Student Daily Report");
 
         // Declare variables to store user input
-        string name, course, positiveExperiences, additionalFeedback, needHelp;
+        string name, course, positiveExperiences, additionalFeedback;
         int pageNumber, studyHours;
-        
+        bool needHelp;
 
         // Ask and save user data
         Console.Write("What is your name? ");
@@ -27,7 +29,8 @@ class DailyReport
         pageNumber = (int)Convert.ChangeType(Console.ReadLine(), typeof(int));
 
         Console.Write("Do you need help with anything? (true/false) ");
-        needHelp = Console.ReadLine();
+        // Use direct casting to bool
+        needHelp = (bool)Convert.ChangeType(Console.ReadLine(), typeof(bool));
 
         Console.Write("Were there any positive experiences you’d like to share? Please give specifics. ");
         positiveExperiences = Console.ReadLine();
