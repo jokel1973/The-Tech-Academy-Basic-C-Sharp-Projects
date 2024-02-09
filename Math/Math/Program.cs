@@ -22,14 +22,18 @@ namespace Math
             //int product = num1 * num2;
             //Console.WriteLine(product);
 
-            int num1 = 48;
-            int num2 = 8;
-            int quotient = num1 / num2;
-            Console.WriteLine(quotient);
+            //int num1 = 48;
+            //int num2 = 8;
+            //int quotient = num1 / num2;
+            //Console.WriteLine(quotient);
+            //Console.ReadLine();
+
+            string name = "Johnny";
+            int number = 5;
+            Console.WriteLine(name + number);
+
+
             Console.ReadLine();
-
-
-
 
         }
     }
