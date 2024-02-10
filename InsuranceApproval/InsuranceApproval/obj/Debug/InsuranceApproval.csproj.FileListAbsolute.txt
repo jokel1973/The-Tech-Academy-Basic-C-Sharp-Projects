@@ -1,0 +1,6 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceApproval\InsuranceApproval\bin\Debug\InsuranceApproval.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InsuranceApproval\InsuranceApproval\obj\Debug\InsuranceApproval.pdb
