@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\bin\Debug\LoopsWithBooleanLogic.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\bin\Debug\LoopsWithBooleanLogic.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\bin\Debug\LoopsWithBooleanLogic.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\obj\Debug\LoopsWithBooleanLogic.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\obj\Debug\LoopsWithBooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\obj\Debug\LoopsWithBooleanLogic.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LoopsWithBooleanLogic\LoopsWithBooleanLogic\obj\Debug\LoopsWithBooleanLogic.pdb
