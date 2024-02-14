@@ -10,6 +10,16 @@ namespace Loops
             string name = Console.ReadLine().ToLower(); //stores user input, allows upper or lower case entries
             bool isGuessed = name == "erik";
 
+             Console.WriteLine("Try at least 3 more times");
+            int whileCounter = 0; // Counter variable
+
+            // While the counter is less than 3, execute the loop
+            while (whileCounter < 3)
+            {
+                Console.WriteLine($"GO! {whileCounter + 1}");
+                whileCounter++; // Increment the counter
+            }
+
             do //begins do while loop
             {
                 switch (name) //Switch statement
