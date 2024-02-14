@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\bin\Debug\String_sb.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\bin\Debug\String_sb.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\bin\Debug\String_sb.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\obj\Debug\String_sb.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\obj\Debug\String_sb.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\obj\Debug\String_sb.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\String_sb\String_sb\obj\Debug\String_sb.csproj.AssemblyReference.cache
