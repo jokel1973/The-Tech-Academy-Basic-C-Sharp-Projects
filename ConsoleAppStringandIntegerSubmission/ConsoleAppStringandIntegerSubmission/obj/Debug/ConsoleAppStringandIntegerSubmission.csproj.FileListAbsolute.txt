@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\bin\Debug\ConsoleAppStringandIntegerSubmission.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\bin\Debug\ConsoleAppStringandIntegerSubmission.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\bin\Debug\ConsoleAppStringandIntegerSubmission.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\obj\Debug\ConsoleAppStringandIntegerSubmission.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\obj\Debug\ConsoleAppStringandIntegerSubmission.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\obj\Debug\ConsoleAppStringandIntegerSubmission.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppStringandIntegerSubmission\ConsoleAppStringandIntegerSubmission\obj\Debug\ConsoleAppStringandIntegerSubmission.pdb
