@@ -24,14 +24,14 @@ class Program
                     // Step 5: Try to perform the division
                     try
                     {
-                        double result = (double)number / divisor; // Ensure result is a decimal by using (double)
+                        int result = number / divisor; // Ensure result is a decimal by using (double)
                         Console.WriteLine($"{number} / {divisor} = {result}");
                     }
                     // Step 6: Catch and handle exceptions related to division by zero or invalid input
                     catch (DivideByZeroException)
                     {
                         Console.WriteLine($"Error: Cannot divide by zero.");
-                        return;
+                        //return;
                     }
                     catch (Exception ex)
                     {
