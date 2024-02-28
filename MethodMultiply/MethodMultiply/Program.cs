@@ -21,8 +21,8 @@ namespace MethodMultiply
                 
                 int secondNumber;// Read the second number (it's optional, so the user can press Enter to skip)
                 int.TryParse(Console.ReadLine(), out secondNumber);
-                                
-                int result = multiplyInstance.MultiplyNumbers(firstNumber, secondNumber);// Calls the MultiplyNumbers method with the entered numbers
+
+                int result = multiplyInstance.MultiplyNumbers(firstNumber, secondNumber == 0 ? 1 : secondNumber); // Calls the MultiplyNumbers method with the entered numbers and defaults to 1 if no number is entered
 
                 Console.WriteLine($"Result of multiplication: {result}"); // Display the result
             }
