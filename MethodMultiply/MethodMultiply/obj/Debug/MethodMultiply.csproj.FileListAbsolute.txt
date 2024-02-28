@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\bin\Debug\MethodMultiply.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\bin\Debug\MethodMultiply.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\bin\Debug\MethodMultiply.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\obj\Debug\MethodMultiply.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\obj\Debug\MethodMultiply.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\obj\Debug\MethodMultiply.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodMultiply\MethodMultiply\obj\Debug\MethodMultiply.pdb
