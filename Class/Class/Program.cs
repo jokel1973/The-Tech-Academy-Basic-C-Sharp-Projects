@@ -18,6 +18,9 @@ class Program
         {
             // Call the MathOps method with the user-entered number
             voidInstance.MathOps(userInput);
+
+            // Call the MathOps method from the Static class
+            Class.Static.MathOps(userInput);
         }
         else
         {
@@ -38,6 +41,8 @@ class Program
         // Overloaded method for double input
         double doubleInput = 10.5;
         voidInstance.MathOps(doubleInput);
+
+        
 
         // Wait for user input before closing the console window
         Console.ReadLine();
