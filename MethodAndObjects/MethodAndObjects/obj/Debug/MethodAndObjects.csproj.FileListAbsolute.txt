@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\bin\Debug\MethodAndObjects.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodAndObjects\MethodAndObjects\obj\Debug\MethodAndObjects.pdb
