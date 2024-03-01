@@ -20,7 +20,7 @@ class Program
             voidInstance.MathOps(userInput);
 
             // Call the MathOps method from the Static class
-            Class.Static.MathOps(userInput);
+            Class.Minus.MathOp(userInput);
         }
         else
         {
