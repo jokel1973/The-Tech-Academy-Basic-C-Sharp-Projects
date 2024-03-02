@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\bin\Debug\PolymorphismInterface.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismInterface\PolymorphismInterface\obj\Debug\PolymorphismInterface.pdb
