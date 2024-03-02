@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 
 
-namespace Class
+namespace ClassAssignment
 {
-    public class Void
+    public class MathMethods
     {
         // Method to divide a number by 2 and display the result
         public void MathOps(int number)
