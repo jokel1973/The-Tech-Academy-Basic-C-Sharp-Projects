@@ -4,3 +4,4 @@ C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmission\L
 C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.CoreCompileInputs.cache
 C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.exe
 C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.AssemblyReference.cache
