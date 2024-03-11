@@ -1,0 +1,7 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\bin\Debug\DateandTimeSubmission.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\bin\Debug\DateandTimeSubmission.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\bin\Debug\DateandTimeSubmission.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\obj\Debug\DateandTimeSubmission.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\obj\Debug\DateandTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\obj\Debug\DateandTimeSubmission.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateandTimeSubmission\DateandTimeSubmission\obj\Debug\DateandTimeSubmission.pdb
