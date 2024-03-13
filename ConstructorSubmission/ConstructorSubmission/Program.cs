@@ -23,6 +23,7 @@ class Example
         Console.WriteLine("Const Variable: " + myConstVariable);
         Console.WriteLine("Var Variable: " + myVarVariable);
         Console.WriteLine("Chained Constructors Example Name: " + chainedConstructorsExample.Name);
+        Console.WriteLine("Chained Constructors Example Department: " + chainedConstructorsExample.Department);
         Console.ReadLine();
     }
 }
@@ -30,6 +31,7 @@ class Example
 class ChainedConstructorsExample
 {
     public string Name { get; }
+    public string Department { get; }
 
     // Constructor with parameter
     public ChainedConstructorsExample(string name)
@@ -41,6 +43,7 @@ class ChainedConstructorsExample
     public ChainedConstructorsExample(string name, string department)
     {
         Name = name;
+        Department = department;
         // Additional initialization logic can be added here if needed
 
     }
