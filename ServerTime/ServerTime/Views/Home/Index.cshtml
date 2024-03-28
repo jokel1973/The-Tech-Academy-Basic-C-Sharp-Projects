@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model DateTime
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Server Time</title>
+</head>
+<body>
+    <h2>The current time is:</h2>
+    <p>@Model.ToString("F")</p>
+</body>
+</html>
+

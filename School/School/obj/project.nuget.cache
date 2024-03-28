@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pFwS7tIdjlY/uf5DwyS6EYiYGOwittXouE1HVVUakhs4+NL38kx0sMuj0ScFDnoUTZOIAtC8ZEX7MiUHZ+BPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorda\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\School\\School\\School.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorda\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
