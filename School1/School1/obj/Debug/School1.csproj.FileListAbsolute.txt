@@ -1,0 +1,12 @@
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\School1.exe.config
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\School1.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\School1.pdb
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\EntityFramework.dll
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\EntityFramework.xml
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\obj\Debug\School1.csproj.AssemblyReference.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\obj\Debug\School1.csproj.CoreCompileInputs.cache
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\obj\Debug\School1.csproj.CopyComplete
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\obj\Debug\School1.exe
+C:\Users\jorda\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\School1\School1\obj\Debug\School1.pdb

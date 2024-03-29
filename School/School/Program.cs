@@ -29,7 +29,7 @@ namespace School
         }
 
         namespace EF6Console
-    {
+        {
         public class SchoolContext : DbContext
         {
             public SchoolContext() : base()
